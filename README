@@ -1,1 +1,2 @@
-My personal attempt for Tcp/Ip chat program and it is written in C.
+Simplest Color Balance algorithm has been taken from https://web.stanford.edu/~sujason/ColorBalancing/simplestcb.html
+and it has been implemented in OpenCV/C++ as in the MATLAB code.
